@@ -89,14 +89,39 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "005",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "slug": "005",
+          "name": "alyriana_02.exe",
           "status": "start"
+        },
+                {
+          "slug": "004",
+          "name": "Bandit Pursuit",
+          "status": "partial-success"
+        },
+                {
+          "slug": "003",
+          "name": "Monstrosity Reconaissance",
+          "status": "success"
+        },
+                {
+          "slug": "002",
+          "name": "alyriana_01.exe",
+          "status": "success"
+        },
+                {
+          "slug": "001",
+          "name": "346-Alpha",
+          "status": "success"
+        },
+                {
+          "slug": "000",
+          "name": "Union Academy Tournament",
+          "status": "success"
         },
       ],
       "pilots": [
@@ -134,7 +159,7 @@ export default {
         "headerTitle": "Project XENRS",
         "headerSubtitle": "Lancer Wing",
         "subheaderTitle": "Colony Defense",
-        "subheaderSubtitle": "Xray-Echo-November-Romeo-Sierra",
+        "subheaderSubtitle": "Bandit Suppression",
       },
       "options":{
         "eventsMarkdownPerMission": true
