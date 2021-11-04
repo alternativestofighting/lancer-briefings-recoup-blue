@@ -162,7 +162,7 @@ export default {
         "subheaderSubtitle": "Bandit Suppression",
       },
       "options":{
-        "eventsMarkdownPerMission": true
+        "eventsMarkdownPerMission": false
       }
     }
   },
