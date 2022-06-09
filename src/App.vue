@@ -98,53 +98,47 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Skull Leader",
+          "alias": "UN-A CLASSIFIED",
+          "code": "e27c484e-ab9b-4e3e-af75-096d6d73922d//NDL-C-CHAIN-CROSS",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "I Just Want Your Love"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Can't Fail",
+          "alias": "UN-A CLASSIFIED",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "UN-A CLASSIFIED"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "Goldleaf",
+          "alias": "Ormander Kellman",
+          "code": "Kellman.Ormander:653de6e9-acff-4ff1-bbd9-e62a84219377//NDL-C-DISCORDANT-CRYSTAL",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "Ad Aspera"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "ST-2-01",
+          "alias": "Alex Thompson",
+          "code": "Thompson.Alex:72457e6a-9b36-45db-9530-2a9e9fcd47e2//NDL-C-BRASS-MANTLE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "Cait Sith"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "callsign": "Seven",
+          "alias": "XIV",
+          "code": "XIV:6e96da55-f522-478c-af2f-de9c89276eb0//NDL-C-BLUE-HIDE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "Foolish Lies"
         },
       ],
       "npcs": [
-        {
-          "name": "Snakeman",
-          "affiliation": "Mirrorsmoke Mercenary Company",
-          "pronouns": "He/Him",
-          "notes": "DELTA-ECHO-ECHO-ZULU's primary report"
-        },
         {
           "name": "Brava Hadura",
           "affiliation": "Evergreen",
@@ -158,27 +152,27 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "Landmark Colonial",
+        "headerSubtitle": "SSC-Subsidiary",
+        "subheaderTitle": "Crisis Response Team",
+        "subheaderSubtitle": "Recoup Blue",
       },
       "clocks": [
         {
-          "name": "Positive",
-          "description": "This is a description of a positive clock.",
+          "name": "Defense of Evergreen",
+          "description": "Represents the integrity and readiness of Evergreen's militia and defenses.",
           "help": "Having more segments filled in will make things easier for you during later missions.",
           "color": "#7DBBBB",
           "value": 2,
           "max": 6,
         },
         {
-          "name": "Negative",
-          "description": "This is a description of a negative clock.",
-          "help": "Having more segments filled in will make things harder for you during later missions.",
+          "name": "The Machine Horde",
+          "description": "Represents the number of rogue machines and the danger they pose.",
+          "help": "Having more segments filled in will make things more difficult during later missions.",
           "color": "#FD7777",
-          "value": 2,
-          "max": 3,
+          "value": 0,
+          "max": 6,
         },
         {
           "name": "Player Project",
