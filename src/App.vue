@@ -184,22 +184,6 @@ export default {
           "value": 0,
           "max": 6,
         },
-        {
-          "name": "The Machine Horde",
-          "description": "Represents the number of rogue machines and the danger they pose.",
-          "help": "Having more segments filled in will make things more difficult during later missions.",
-          "color": "#FD7777",
-          "value": 0,
-          "max": 6,
-        },
-        {
-          "name": "Player Project",
-          "description": "This is a description of a Player Project clock.",
-          "help": "Filling all the segments will grant Player a new power.",
-          "color": "#3CB043",
-          "value": 0,
-          "max": 5,
-        }
       ],
       "options": {
         "eventsMarkdownPerMission": true,
