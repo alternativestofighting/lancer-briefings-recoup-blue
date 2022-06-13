@@ -1,3 +1,11 @@
-- Point 1
-- Point 2
-- Point 3
+Brava Hadura is the commander of Evergreen’s militia. She was appointed by Patience, Evergreen’s NHP administrator. She primarily acts as Evergreen’s lead first-response mediator, resolving disputes between colonists to ensure peaceful outcomes. She’s long been a popular presence in Evergreen, a trusted neutral party and counselor among the labor- and engineering-track citizens. Brava underwent genderconfirming surgery not long after her arrival on Hercynia that put her briefly out of action and left her with a hefty backlog of work she’s still catching up on.
+
+Evergreen was commissioned to be a council settlement – a workers’ city, collectively owned and organized around the responsible, limited harvest and export of organic materials from Hercynia. With this founding emphasis on solidarity and mutual aid, the people of Evergreen have shown Brava nothing but love and community; she has returned that care in her work.
+
+However, under siege, the repeated attacks have caused her great distress. Distraught at the loss of her troopers, the pain felt by her community, and the dramatic changes in her professional responsibilities, Brava nonetheless works as hard as she can to keep the people of Evergreen safe.
+
+This job is a difficult one, and Brava feels every loss in her heart. The militia is made up of her neighbors, friends, and family: her barber, the guy who ran the corner bakery, her cousin, the woman who used to sell tea before she was called up. None of them are career soldiers. They’ve had to learn fast the dangers of combat. Some of the troopers have started dosing themselves with potent cocktails of adrenalboosting, psychosuppressant chemicals, steady drips designed to boost combat performance and suppress fear. These are meant for short-term use, but as the raids have dragged on, so too has the militia’s reliance on them. Brava has not adopted their use just yet.
+
+Brava means well and cares deeply for her home, her young child, her partner, and her parents. After family, her first loyalty is to the people of Evergreen and she has shown how stubborn she can be in her defense of them. She carries an enhanced kit while on duty: a slim exoskeleton to enhance her stamina and strength, a tertiary arm to help her wield her primary weapon (a heavy anti-armor rifle), and eco-integrated body armor along with a sidearm and a range of other complementary gear and equipment.
+
+Before the conflict began, she never carried a weapon.
