@@ -98,12 +98,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Skull Leader",
-          "alias": "UN-A CLASSIFIED",
-          "code": "e27c484e-ab9b-4e3e-af75-096d6d73922d//NDL-C-CHAIN-CROSS",
+          "callsign": "King",
+          "alias": "Rey Rodriguez",
+          "code": "Rodriguez.Rey:426d13ce-c336-48ed-8f7a-05adec4fda91//NDL-C-SATELLITE-VEIL",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "I Just Want Your Love"
+          "mech": "Oscuro"
         },
         {
           "callsign": "Can't Fail",
@@ -145,6 +145,24 @@ export default {
           "pronouns": "She/Her",
           "notes": "Captain of the Local Militia"
         },
+        {
+          "name": "Patience",
+          "affiliation": "Evergreen",
+          "pronouns": "They/Them",
+          "notes": "Colonial Administrator"
+        },
+        {
+          "name": "Edena Ji",
+          "affiliation": "Evergreen",
+          "pronouns": "She/Her",
+          "notes": "Chief Operations Officer, Attaché to Patience"
+        },
+        {
+          "name": "Castor Fielding",
+          "affiliation": "Evergreen",
+          "pronouns": "He/Him",
+          "notes": "Chief Engineer"
+        },
       ],
       "header": {
         "planet": "Hercynia",
@@ -163,7 +181,7 @@ export default {
           "description": "Represents the integrity and readiness of Evergreen's militia and defenses.",
           "help": "Having more segments filled in will make things easier for you during later missions.",
           "color": "#7DBBBB",
-          "value": 2,
+          "value": 0,
           "max": 6,
         },
         {
