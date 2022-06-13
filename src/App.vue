@@ -179,7 +179,7 @@ export default {
         {
           "name": "Defense of Evergreen",
           "description": "Represents the integrity and readiness of Evergreen's militia and defenses.",
-          "help": "Having more segments filled in will make things easier for you during later missions.",
+          "help": "Having more segments filled in will make things easier for the Lancers during later missions.",
           "color": "#7DBBBB",
           "value": 0,
           "max": 6,
