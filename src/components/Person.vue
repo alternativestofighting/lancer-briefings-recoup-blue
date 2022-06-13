@@ -37,7 +37,7 @@ export default {
 	},
 	computed: {
 		portrait() {
-			return `/npcs/${this.person.name}.jpg`
+			return `/npcs/${this.person.name}.png`
 		}
 	},
 	created(){
