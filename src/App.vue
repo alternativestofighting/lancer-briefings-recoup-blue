@@ -111,7 +111,7 @@ export default {
           "code": "Eshbaugh.Eutropio:165eac96-e791-4cb3-934e-018475e9135f//NDL-C-SECOND-TELLURION",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "The Anxiety Machine"
+          "mech": "The Anxiety Mechanism"
         },
         {
           "callsign": "Goldleaf",
