@@ -130,12 +130,12 @@ export default {
           "mech": "Cait Sith"
         },
         {
-          "callsign": "Seven",
-          "alias": "XIV",
+          "callsign": "Xiv",
+          "alias": "Xiv",
           "code": "XIV:6e96da55-f522-478c-af2f-de9c89276eb0//NDL-C-BLUE-HIDE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Foolish Lies"
+          "mech": "Frank"
         },
       ],
       "npcs": [
